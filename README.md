@@ -16,7 +16,7 @@ Key features include:
 * **Sensitivity Analysis:** Includes Tornado plots and Spearman rank correlations to identify primary value drivers (e.g., patient population vs. WACC).
 * **Outcome:** Established a fair-value band of **$4.1B – $5.6B** with limited downside risk.
 
-[**View Project Folder**](./batoclimab_valuation) | [**View Presentation**](./batoclimab_valuation/Biogen Data Scientist Presentation.pdf)
+[**View Project Folder**](./batoclimab_valuation) 
 
 ---
 
