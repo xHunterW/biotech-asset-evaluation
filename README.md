@@ -1,6 +1,6 @@
 # Biotech Investment & Asset Evaluation
 
-A curated collection of quantitative frameworks for evaluating pharmaceutical assets and investment opportunities. Each project applies rigorous financial modeling—such as risk-adjusted NPV (rNPV), real options, and Monte Carlo simulations—to real-world clinical and commercial data. This repository serves as a hub for bridging scientific diligence with investment-grade decision-making.
+A curated collection of quantitative frameworks for evaluating pharmaceutical assets and investment opportunities. Each project applies rigorous financial modeling such as risk-adjusted NPV (rNPV), real options, and Monte Carlo simulations to real-world clinical and commercial data. This repository serves as a hub for bridging scientific diligence with investment-grade decision-making.
 
 ---
 
