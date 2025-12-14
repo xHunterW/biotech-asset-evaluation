@@ -8,7 +8,7 @@ A curated collection of quantitative frameworks for evaluating pharmaceutical as
 
 ### Batoclimab (IMVT-1401) Valuation Case Study
 
-This project implements a **Decision Quality (DQ) framework** to evaluate the hypothetical acquisition of Batoclimab for Myasthenia Gravis. The Python-based model utilizes **Monte Carlo simulations (n=10,000)** to generate a risk-adjusted Net Present Value (rNPV) distribution.
+This project implements a **Decision Quality (DQ) framework** to evaluate the hypothetical acquisition of Immunovant's Batoclimab for Myasthenia Gravis. The Python-based model utilizes **Monte Carlo simulations (n=10,000)** to generate a risk-adjusted Net Present Value (rNPV) distribution.
 
 Key features include:
 * **Probabilistic Modeling:** Uses Truncated Normal, Beta, and Triangular distributions to model uncertainty in regulatory timelines, clinical Probability of Success (PoS), and peak market penetration..
