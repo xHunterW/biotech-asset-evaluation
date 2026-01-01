@@ -11,7 +11,7 @@ A curated collection of quantitative frameworks for evaluating pharmaceutical as
 This project implements a **Decision Quality (DQ) framework** to evaluate the hypothetical acquisition of Immunovant's Batoclimab for Myasthenia Gravis. The Python-based model utilizes **Monte Carlo simulations (n=10,000)** to generate a risk-adjusted Net Present Value (rNPV) distribution.
 
 Key features include:
-* **Probabilistic Modeling:** Uses Truncated Normal, Beta, and Triangular distributions to model uncertainty in regulatory timelines, clinical Probability of Success (PoS), and peak market penetration..
+* **Probabilistic Modeling:** Uses Truncated Normal, Beta, and Triangular distributions to model uncertainty in regulatory timelines, clinical Probability of Success (PoS), and peak market penetration.
 * **Variable Correlation:** Implements Gaussian Copulas to preserve realistic dependencies between pricing and gross-to-net discounts.
 * **Sensitivity Analysis:** Includes Tornado plots and Spearman rank correlations to identify primary value drivers (e.g., patient population vs. WACC).
 * **Outcome:** Established a fair value band of **$4.1B – $5.6B** with limited downside risk.
