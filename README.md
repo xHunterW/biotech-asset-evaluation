@@ -13,7 +13,7 @@ This project implements a **Decision Quality (DQ) framework** to evaluate the hy
 Key features include:
 * **Probabilistic Modeling:** Uses Truncated Normal, Beta, and Triangular distributions to model uncertainty in regulatory timelines, clinical Probability of Success (PoS), and peak market penetration.
 * **Variable Correlation:** Implements Gaussian Copulas to preserve realistic dependencies between pricing and gross-to-net discounts.
-* **Sensitivity Analysis:** Includes Tornado plots and Spearman rank correlations to identify primary value drivers (e.g., patient population vs. WACC).
+* **Sensitivity Analysis:** Includes Tornado plots and Spearman rank correlations to identify primary value drivers (e.g. patient population vs. WACC).
 * **Outcome:** Established a fair value band of **$4.1B – $5.6B** with limited downside risk.
 
 [**View Project Folder**](./batoclimab_valuation) 
